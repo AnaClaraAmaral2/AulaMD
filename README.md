@@ -4,11 +4,11 @@
 
 vamos iniciar falando de hierarquia e estilos simples.
 
-Exemplo de uso da estilização em negrito **palavra de exemplo** utilizada-se **
+Exemplo de uso da estilização em negrito **palavra de exemplo** utiliza-se **
 
-Exemplo de uso da estilização em itálico palavra, utiliza-se "**"
+Exemplo de uso da estilização em itálico palavra, utiliza-se **
 
-Exemplo do uso da estilização em tachado ~~palavra~~ "~~"
+Exemplo do uso da estilização em tachado ~~palavra~~ utiliza-se ~~
 
 # Lista de compras
 
@@ -43,3 +43,6 @@ função boasVindas(nome) {
 |:--- | :--- | :--- |
 | HTML | sim | ativo|
 | Markdown | sim | ativo|
+
+
+![arara](arara.webp)
